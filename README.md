@@ -9,7 +9,7 @@ time1 = time.time() # this gives the time in seconds
 n = 10000
 all_numbers = np.zeros(n) # this variable holds all the random numbers that has been generated 
 
-seed = time1 #Here we use the time fri=om the computer. 
+seed = time1 #Here we use the time from the computer. 
              #If we want to set the program to ask a seed from the user we use 
              #'int(input("insert a seed number: "))'
 
